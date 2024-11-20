@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="azul_claro">#A6D1E6</color>
+    <color name="verde_menta">#A8D8A1</color>
+    <color name="gris_claro">#F4F4F9</color>
+    <color name="gris_oscuro">#333333</color>
+    <color name="gris_claro_secundario">#777777</color>
+    <color name="amarillo_suave">#F6C152</color>
+    <color name="verde_claro">#A3D9B1</color>
+</resources>
